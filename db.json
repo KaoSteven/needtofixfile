@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "lowdb is awesome",
+      "published": true
+    },
+    {
+      "id": 2,
+      "title": "lowdb is great",
+      "published": true
+    },
+    {
+      "id": 3,
+      "title": "lowdb is nice",
+      "published": false
+    },
+    {
+      "id": 4,
+      "title": "lowdb is good",
+      "published": false
+    },
+    {
+      "id": "1",
+      "title": "ping",
+      "published": "false"
+    },
+    {
+      "id": "6",
+      "title": "wow",
+      "published": "false"
+    },
+    {
+      "id": "6",
+      "title": "wow",
+      "published": "false"
+    },
+    {
+      "id": "12",
+      "title": "hello world",
+      "published": "true"
+    },
+    {
+      "id": "13",
+      "title": "intid",
+      "published": "true"
+    },
+    {
+      "id": "14",
+      "title": "parseid",
+      "published": "true"
+    },
+    {
+      "id": "16",
+      "title": "+",
+      "published": "true"
+    },
+    {
+      "id": "17",
+      "title": "17",
+      "published": "true"
+    },
+    {
+      "id": "18",
+      "title": "18",
+      "published": "true"
+    },
+    {
+      "id": "19",
+      "title": "19",
+      "published": "true"
+    },
+    {
+      "id": "20",
+      "title": "twenty",
+      "published": "true"
+    },
+    {
+      "id": "21",
+      "title": "twenty-one",
+      "published": "true"
+    }
+  ]
+}
